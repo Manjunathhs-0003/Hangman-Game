@@ -36,7 +36,7 @@ cd blackjack-game
   <li>Run the game:</li>
 </ol>
 <pre>
-python blackjack_game.py
+python main.py
 </pre>
 <h2>Usage</h2>
 <p>Upon running the game, follow the prompts to guess letters and uncover the hidden word. Each incorrect guess results in the loss of a life. The game ends when the player correctly guesses the word or runs out of lives.</p>
